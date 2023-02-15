@@ -1,0 +1,22 @@
+file 1412 1675209149                                            
+version 2
+run General-0-20230201-00:50:56-18772
+attr configname General
+attr datetime 20230201-00:50:56
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network ComputerNetwork
+attr processid 18772
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 ComputerNetwork totalDelay:vector ETV
+attr source delay
+0	446 964 1 26 0 476.548548550346 26 12.835648786277 58.183138202876 1009.3040071568 42222.293156206
+

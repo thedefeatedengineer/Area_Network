@@ -1,0 +1,20 @@
+version 2
+run General-0-20230201-00:50:56-18772
+attr configname General
+attr datetime 20230201-00:50:56
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network ComputerNetwork
+attr processid 18772
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar ComputerNetwork totalMessagesReceived:count 26
+attr source messagesReceived
+
